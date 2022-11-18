@@ -8,7 +8,7 @@ export const gameConfig = {
         width: 100,
         height: 100,
         hitbox: 'circle',
-        background: '../images/spaceship.png',
+        background: 'https://i.ibb.co/h9pYQk3/spaceship.png',
         speed: 10,
         health: 1,
         damage: 1
@@ -18,7 +18,7 @@ export const gameConfig = {
             width: 50,
             height: 50,
             hitbox: 'circle',
-            background: '../images/asteroid.png',
+            background: 'https://i.ibb.co/Kr6btZ2/asteroid.png',
             speed: 0.5,
             health: 1,
             damage: 1
